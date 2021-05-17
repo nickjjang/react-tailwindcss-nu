@@ -1,0 +1,10 @@
+/* ./src/index.css */
+@tailwind base;
+
+html {
+    @apply font-mont-regular;
+    background-color: #FFFFFF;
+}
+
+@tailwind components;
+@tailwind utilities;
